@@ -1,14 +1,3 @@
-"""
-A simple wrapper around the 'experimental' Google Places API, documented
-here: http://code.google.com/apis/maps/documentation/places/. This library
-also makes use of the v3 Maps API for geocoding.
-Prerequisites: A Google API key with Places activated against it. Please
-check the Google API console, here: http://code.google.com/apis/console
-NOTE: Please ensure that you read the Google terms of service (labelled 'Limits
-and Requirements' on the documentation url) prior to using this library in a
-production environment.
-@author: sam@slimkrazy.com
-"""
 from __future__ import absolute_import
 
 import cgi
